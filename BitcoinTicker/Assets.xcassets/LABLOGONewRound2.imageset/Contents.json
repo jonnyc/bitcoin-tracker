@@ -2,15 +2,17 @@
   "images" : [
     {
       "idiom" : "universal",
+      "filename" : "Helm-Logo-3d-Gray-Final-2.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "LABLOGONewRound2.png",
+      "filename" : "Helm-Logo-3d-Gray-Final-1.png",
       "scale" : "2x"
     },
     {
       "idiom" : "universal",
+      "filename" : "Helm-Logo-3d-Gray-Final.png",
       "scale" : "3x"
     }
   ],
